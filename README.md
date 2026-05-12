@@ -1,7 +1,7 @@
 # Emanueli Lourenço
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Emanueli, tenho 28 anos e sou natural de Curitiba, PR. Frequentei a Universidade Federal do Paraná (UFPR) entre 2017-2022, porém não conclui meus estudos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCPR. 
+Me chamo Emanueli, tenho 28 anos e sou natural de Curitiba, PR. Frequentei a Universidade Federal do Paraná (UFPR) entre 2017-2022, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCPR. 
 </p>
 
 ---
